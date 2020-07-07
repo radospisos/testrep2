@@ -1,0 +1,3 @@
+/home/rodion/Documents/C++/Builder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rodion/Documents/C++/Builder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rodion/Documents/C++/Builder/cmake-build-debug/CMakeFiles/Builder.dir
